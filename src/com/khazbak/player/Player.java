@@ -1,7 +1,5 @@
 package com.khazbak.player;
 
-import com.khazbak.exceptions.PlayerLostException;
-import com.khazbak.game.Dice;
 
 public class Player {
     private String name;
